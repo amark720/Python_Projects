@@ -67,5 +67,5 @@ takecommand()  # use this function and speak something which Asistant will repea
 #time()  #use this function if you want assistant to speak the current time
 
 
-
+### End of Code ###
 
