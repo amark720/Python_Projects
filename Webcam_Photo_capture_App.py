@@ -19,3 +19,5 @@ while(result):
     print("Image Captured...")
 
 imgcapture.release()
+
+### End of Code ###
