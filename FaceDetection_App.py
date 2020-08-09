@@ -35,3 +35,5 @@ for (x, y, w, h) in faces:
     cv2.waitKey(1200)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+### End of Code ###
