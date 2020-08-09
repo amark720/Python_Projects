@@ -8,5 +8,9 @@ import pyshorteners
 
 url = input("Enter URL which you want to Shorten : \n")
 
-print("URL After Shortening :- ", pyshorteners.Shortener().tinyurl.short(url))
+print("URL After Shortening :- ", pyshorteners.Shortener().tinyurl.short(url)) 
+# This above line print the Shorten url of your Entred Long URL.
+
+
+### End of Code ###
 
