@@ -7,8 +7,9 @@ After that run the below code to get the internet speed on your console.
 
 import os
 os.system('cmd /c "speedtest-cli"')  # Here we are running the console command 'speedtest-cli' using python code
+# The above line of code is enough for getting the internet speed.. There's no Long Coding is needed for this!
 
-
+### End of Code ###
 
 '''
 The output will be like-
