@@ -24,7 +24,7 @@ start_time = time.time()
 
 # ----------------------------------- Update Link and Views Count Below -------------------------------
 
-link = "https://www.kaggle.com/datawarriors/compare-2-images"  # Change the Kaggle Notebook Link Here.
+link = "https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance"  # Change the Kaggle Notebook Link Here.
 limit = 20  # Update how many views you want on your post.
 
 # ------------------------------------------------------------------------------------------------------
