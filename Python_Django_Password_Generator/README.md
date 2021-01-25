@@ -11,11 +11,12 @@ Features:
 
 4. Open Source
 
+### ScreenRecording of Running the Live Project
+[![Demo Doccou alpha](https://github.com/amark720/Python_Projects/blob/master/Python_Django_Password_Generator/ScreenRecording.gif)](https://recordit.co/ohLjBzVxYK)
+
 ## Screenshots of The Project:
 ### Screenshot1
 ![alt text](https://github.com/amark720/Python_Projects/blob/master/Python_Django_Password_Generator/Screenshot1.PNG?raw=true)
 ### Screenshot2
 ![alt text](https://github.com/amark720/Python_Projects/blob/master/Python_Django_Password_Generator/Screenshot2.PNG?raw=true)
 
-## Click the link below to see Screen Recording Video of Running the Live Project
-https://recordit.co/ohLjBzVxYK
