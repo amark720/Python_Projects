@@ -3,8 +3,8 @@
 GoTo Command Prompt and install selenium package using command 'pip install selenium'
 and install humanfriendly package using command 'pip install humanfriendly'.
 Update the Kaggle Notebook Post link into the "Link" Variable and set the number of Views you want
-Downloaded the latest ChromeDriver.exe from this link - https://chromedriver.chromium.org/downloads and after
-downloading, extract it and keep that Chromedriver.exe into the same folder where this Python file is located.
+Downloaded the latest ChromeDriver.exe from this link - (https://chromedriver.chromium.org/downloads) and after
+downloading, extract it and keep that Chromedriver.exe into the same folder from where you're running this Python file.
 After that run the below code and wait till the views are getting added.
 '''
 
