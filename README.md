@@ -1,6 +1,6 @@
 # Python_Projects
-### This Repository contains multiple Python projects created by me!
-### I've Written and executed all these programs using Pycharm Ide so it will be better if you use Pycharm IDE to execute these programs.
+#### This Repository contains multiple Python projects created by me!
+#### I've Written and executed all these programs using Pycharm Ide so it will be better if you use Pycharm IDE to execute these programs.
 
 ## List of Python Projects available into this Repository:
 
