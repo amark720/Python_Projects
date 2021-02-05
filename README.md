@@ -33,3 +33,7 @@ In this project you need to submit image which contains text then after running 
 In this project you just need to run the application and you'll see that into the windows notification area a poupup will be generated with the current wordwide Corona Virus case updates in which you'll see the number of total cases followed by total number of recoverd and Deaths.
 you just need to set the interval time into the program then after that interval of time it will againg give you a windows notification with latest corona Virus case updates.
 
+
+### Don't forget to ⭐ the repository, if it helped you in anyway.
+
+#### Feel Free to contact me at➛ databoyamar@gmail.com for any help related to Projects in this Repository!
