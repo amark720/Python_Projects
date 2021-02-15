@@ -5,7 +5,7 @@
 * As we know Tkinter is used to create a variety of GUI (Graphical User Interface) applications.<br>
 * In this project I will create a Digital clock using Tkinter.<br>
 * We'll Use Label widget from Tkinter and time module.<br>
-* In the following application, we are going to use Label widget and also going to use time module which we will use to retrieve system’s time.<br>
+* In the following application, we are going to use Label widget and time module which we will use to retrieve system’s time.<br>
 
 
 ## Screenshot:
