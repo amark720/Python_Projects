@@ -1,19 +1,15 @@
-## Cat & Dog Classifier using Convolution Neural Network.
-![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
+## Digital clock using Python & Tkinter.
+![Python 3.9](https://img.shields.io/badge/Python-3.9-brightgreen.svg)    ![Tkinter](https://img.shields.io/badge/tkinter-8.6-blue)
 
-### Problem statement :
+### Description:
+As we know Tkinter is used to create a variety of GUI (Graphical User Interface) applications.
+In this project I will create a Digital clock using Tkinter.
+We'll Use Label widget from Tkinter and time module :
+In the following application, we are going to use Label widget and also going to use time module which we will use to retrieve system’s time.
 
-In this Project we are implementing Convolution Neural Network(CNN) Classifier for Classifying images of dogs and cats. The Total number of images available for training is 8,000 and final testing is done on 2,000 images.
 
-### Dependencies
-* Jupyter notebook
-* Tensorflow 2.10
-* Python 3.7+
-* Matplotlib
-* Scikit-Learn
-* Pandas
-
-<p align="left"><img src="https://github.com/amark720/Deep-Learning-Projects/blob/main/Cat%20Dog%20Images%20Classifier%20(CNN%20%2B%20Keras)/Image.gif" width="600" height="300"></p>
+## Screenshot:
+<p align="left"><img src="https://github.com/amark720/Python_Projects/blob/master/Digital%20Clock/Screenshot.PNG" width="600" height="300"></p>
 
 ### Don't forget to ⭐ the repository, if it helped you in anyway.
 
