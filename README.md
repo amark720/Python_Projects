@@ -33,7 +33,7 @@ In this project you need to submit image which contains text then after running 
 In this project you just need to run the application and you'll see that into the windows notification area a poupup will be generated with the current wordwide Corona Virus case updates in which you'll see the number of total cases followed by total number of recoverd and Deaths.
 you just need to set the interval time into the program then after that interval of time it will againg give you a windows notification with latest corona Virus case updates.
 
-<br>
+
 
 ### Repo Stats:
 [![GitHub](https://img.shields.io/github/followers/amark720?style=social)](https://github.com/amark720)  &ensp;  [![GitHub](https://img.shields.io/github/stars/amark720/Python_Projects?style=social)](https://github.com/amark720/Python_Projects)  &ensp;  [![GitHub](https://img.shields.io/github/forks/amark720/Python_Projects?style=social)](https://github.com/amark720/Python_Projects)
