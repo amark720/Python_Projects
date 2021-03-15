@@ -21,7 +21,7 @@ In thie project You can take screenshot of your entire screen, after running the
 
 ### 6. Text to Speech App
 In this project you need to enter the Text into the console and after that just hit enter and program will then speak out whatever text you've written.
-*Note: keep your speaker unmute to hear what program will speak*
+*Note: keep your speaker unmute to hear what program will be speaking*
 
 ### 7. URL Shortner App
 In this project you just need to enter the URL into the console which you want to shorten and then you'll see the shorten url using Tinyurl as an output.
