@@ -1,3 +1,7 @@
+'''
+Install essential libraries using pip command-> !pip install PyPDF2 pdfplumber pymupdf reportlab
+'''
+
 import PyPDF2
 def merge_pdfs(pdf_list, output_path):
     pdf_writer = PyPDF2.PdfWriter()
